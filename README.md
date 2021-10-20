@@ -14,6 +14,21 @@ SDE Internship opportunity for students enrolled in BTech/MTech CSE (and related
 
 ### Machine Learning
 
+### .NET Development
+
+### Angular/Native/React Development
+
+### Android App Development
+
+### Big Data
+
+### Blockchain
+
+### SEO
+
+### Node.js Development
+
+### UI/UX
 
 
 ## Management
@@ -26,6 +41,9 @@ SDE Internship opportunity for students enrolled in BTech/MTech CSE (and related
 
 ## Electrical Engineering
 
+
+
+## Law
 
 
 
